@@ -1,2 +1,2 @@
 # Projetos 
-Projetos que eu fiz na faculdade na linguagem de C++
+Projetos e Trabalhos que eu fiz na faculdade
